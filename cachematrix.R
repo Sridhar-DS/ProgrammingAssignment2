@@ -9,7 +9,7 @@
 
 ## 2.CacheSolve
 ## This function invokes the elemnets of the list by 
-## utlizing the output of makecacheMatrix
+## utlizing the output of makecacheMatrix (the list)
 ## For the first time the inverse of the matrix is calculated 
 ## by this function. Then it is cached.
 ## From the second time the inverse is searched in the cache.
